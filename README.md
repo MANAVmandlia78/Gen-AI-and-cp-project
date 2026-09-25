@@ -3,7 +3,7 @@
 <p align="center">
 🎥 Project Video
 
-Tours and Travells Website || GENAI || CP Project
+[Tours and Travells Website || GENAI || CP Project](https://www.youtube.com/watch?v=xHAnWR6RRgw)
 
 ▶️ Watch the project video on YouTube
 
