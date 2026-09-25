@@ -1,6 +1,11 @@
 ✈️ AI Travel Intelligence
 
 <p align="center">
+🎥 Project Video
+
+Tours and Travells Website || GENAI || CP Project
+
+▶️ Watch the project video on YouTube
 
 <img src="https://img.shields.io/badge/GenAI-RAG%20%7C%20Agents%20%7C%20Tools-blueviolet?style=for-the-badge" alt="GenAI"/>{=html}
 <img src="https://img.shields.io/badge/Travel-AI%20Planning-0ea5e9?style=for-the-badge" alt="Travel AI"/>{=html}
@@ -148,7 +153,8 @@ Adapt this structure to the existing project rather than restructuring
 working code unnecessarily.
 
 <p align="center">
-✈️ From static travel packages to intelligent, personalized
-and adaptive journeys.
+
+<b>{=html}✈️ From static travel packages to intelligent, personalized
+and adaptive journeys.</b>{=html}
 
 </p>
