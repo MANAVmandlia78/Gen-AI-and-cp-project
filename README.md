@@ -148,8 +148,7 @@ Adapt this structure to the existing project rather than restructuring
 working code unnecessarily.
 
 <p align="center">
-
-<b>{=html}✈️ From static travel packages to intelligent, personalized
-and adaptive journeys.</b>{=html}
+✈️ From static travel packages to intelligent, personalized
+and adaptive journeys.
 
 </p>
